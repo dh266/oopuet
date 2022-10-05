@@ -15,6 +15,7 @@
       <change afterPath="$PROJECT_DIR$/Abstract/src/Vehicle.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Transaction/Transaction.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Transaction/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transaction/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Transaction/src/Transaction.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fibonacci/fibonacci.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/fibonacci/src/Main.java" afterDir="false" />
@@ -22,14 +23,7 @@
       <change afterPath="$PROJECT_DIR$/phanso/phanso.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/phanso/src/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/phanso/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/Quanlysinhvien.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quanlysinhvien/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanlysinhvien/quanlysinhvien.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/quanlysinhvien/src/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/quanlysinhvien/src/StudentManagement.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tictactoe/src/Board.java" afterDir="false" />
@@ -41,9 +35,7 @@
       <change afterPath="$PROJECT_DIR$/ucln/src/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ucln/ucln.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +89,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -119,11 +111,7 @@
       <workItem from="1664085219067" duration="22220000" />
       <workItem from="1664277387340" duration="1106000" />
       <workItem from="1664278983003" duration="369000" />
-      <workItem from="1664524277795" duration="16430000" />
-      <workItem from="1664718168491" duration="1660000" />
-      <workItem from="1664719855150" duration="9432000" />
-      <workItem from="1664733688007" duration="367000" />
-      <workItem from="1664734067158" duration="150000" />
+      <workItem from="1664524277795" duration="12191000" />
     </task>
     <servers />
   </component>
@@ -142,7 +130,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Account_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1664719031299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/oopuet$Main.ic" NAME="Main Coverage Results" MODIFIED="1664121175099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
